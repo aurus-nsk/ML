@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/folder_blue.png</file>
+        <file>images/exit.png</file>
+        <file>images/gear.png</file>
+        <file>images/ksirc.png</file>
+        <file>images/algorithm.png</file>
+    </qresource>
+</RCC>
