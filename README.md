@@ -9,7 +9,7 @@ The xy.txt contains the dataset for our linear regression problem. The first col
 
 ####Screenshots
 
-![Alt text] (https://github.com/s-chepurnov/ML/blob/master/images/soft.png)
+![Alt text] (https://github.com/s-chepurnov/ML/images/soft.png)
 
 It's the example of Qt program which contains 4 classes:
 
